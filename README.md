@@ -1,5 +1,6 @@
 # test-participation
 Testing github participation
+0) Add zero line
 
 1) Commit from leoshtika (update 1)
 2) Commit from leon4m
