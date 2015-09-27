@@ -6,3 +6,4 @@ Testing github participation
 3) Commit from leon4m
 4) Commit from leon4m
 5) This is my new line
+6) New line from leoshtika
